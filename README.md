@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. Thanks for visiting!
+
+I have been for Microsoft since 2000, startng in technical evangelism and later as software engineer. As a member of the commercial software engineering team, I work daily on projects with partners in the automotive industry.
 
 <!--
 **TechPreacher/TechPreacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
