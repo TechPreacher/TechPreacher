@@ -4,6 +4,8 @@ I'm Sascha, a senior software engineer working for Microsoft in the Industrial S
 
 Staying in Touch
 
+💻 https://corti.com
+
 💼 https://linkedin.com/in/saschacorti
 
 🧑‍💻 https://github.com/TechPreacher
