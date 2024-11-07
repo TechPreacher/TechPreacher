@@ -2,6 +2,10 @@
 
 I'm Sascha, a senior software engineer working for Microsoft in the Industrial Software Engineering department, developing solutions based on Microsoft cloud technology together with customers to help solve their problems. I am currently focusing on GenAI solutions and previously worked on several industrial Internet of Things projects.
 
+## More information about me
+
+You can find more information about me on [this page](https://corti.ch/sascha).
+
 ## Staying in Touch
 
 💻 https://corti.com
