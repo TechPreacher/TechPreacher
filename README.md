@@ -19,3 +19,5 @@ You can find more information about me on [this page](https://corti.ch/sascha).
 👍 https://facebook.com/TechPreacher
 
 📷 https://instagram.com/TechPreacher
+
+<a href="https://app.daily.dev/techpreacher"><img src="https://api.daily.dev/devcards/v2/npyJQniKVfksOfXM6K95T.png?type=wide&r=mn7" width="652" alt="Sascha Corti's Dev Card"/></a>
