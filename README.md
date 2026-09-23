@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sascha, a senior software engineer working for Microsoft in the Industrial Software Engineering department, developing solutions based on Microsoft cloud technology together with customers to help solve their problems. I am currently focusing on GenAI solutions and previously worked on several industrial Internet of Things projects.
+I'm Sascha, a senior forward deployed engineer working for Microsoft in the Frontier Co department, developing AI based solutions based on Microsoft cloud technology together with customers to help solve their problems. I am currently focusing on GenAI solutions and previously worked on several industrial Internet of Things projects.
 
 ## More information about me
 
